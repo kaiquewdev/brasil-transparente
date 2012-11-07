@@ -5,7 +5,10 @@ e transforma-lo em algo reutilizável e legível.
 
 Para contribuir é simples, fork do projeto,
 pegue o csv e utilize o robô para converter:
-    
+    - virtualenv env ( aconselhavél )
+
+    - pip install -r require.txt
+
     - python robot/csv2json.py origem destino
 
 ## Idealizadores do projeto
