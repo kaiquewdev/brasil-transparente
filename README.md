@@ -7,7 +7,7 @@ Para contribuir é simples, fork do projeto,
 
 pegue o csv e utilize o robô para converter:
 
-    - virtualenv env ( aconselhavél )
+    - virtualenv env ( aconselhável )
 
     - pip install -r require.txt
 
